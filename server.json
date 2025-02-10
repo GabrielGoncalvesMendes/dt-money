@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,12 +9,28 @@
       "createdAt": "2022-07-29T19:36:44.505Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Hambúrguer",
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": "f201",
+      "description": "Pizza",
+      "category": "Alimentacao",
+      "price": 89,
+      "type": "outcome",
+      "createdAt": "2025-02-10T19:29:21.949Z"
+    },
+    {
+      "id": "bd77",
+      "description": "Desenvolvimento App",
+      "category": "Venda",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2025-02-10T19:29:46.941Z"
     }
   ]
 }
